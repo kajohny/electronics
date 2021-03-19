@@ -1,0 +1,139 @@
+#header {
+    height: 80px;
+    transition: ease 0.5s;
+    padding: 20px 0;
+    background-image: url(../images/background.jpg);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#header .logo h1 {
+    font-size: 30px;
+    margin-top: 5px;
+    line-height: 1;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+#header .logo h1 a,
+#header .logo h1 a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.navbar-brand {
+    font-size: 4rem;
+    color: white;
+    margin-right: 6rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.nav,
+.navbar-nav * {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 2rem;
+}
+
+
+.navbar-nav a {
+    color: #d2ece9;
+    padding: 10px 15px;
+    transition: 0.3s;
+    font-size: 15px;
+    font-family: "Open Sans", sans-serif;
+}
+
+.navbar-nav a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.navbar-nav a:focus {
+    color: black;  
+    text-decoration: none; 
+}
+
+.dropdowned-item:hover {
+    width: 100%;
+}
+
+.main {
+    width: 100%;
+    height: 45rem;
+    background: url("../images/background.jpg") top center;
+    background-size: cover;
+    margin-bottom: -5rem;
+    position: relative;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.main:before {
+    content: "";
+    pointer-events: none;
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.main .main-container {
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    padding-top: 80px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.main h1 {
+    margin: 0 0 10px 0;
+    font-size: 48px;
+    font-weight: 300;
+    line-height: 56px;
+    color: #fff;
+}
+
+.main h2 {
+    color: #eee;
+    margin-bottom: 50px;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.dropdown {
+    color: black;
+}
+
+#main {
+    margin-top: 5rem;
+    background-color: #031723;
+    padding: 5rem 0;
+}
+
+#img {
+    width: 600px;
+    height: 600px;
+    object-fit: center/cover;
+    margin: auto;
+}
+
+.footer {
+    padding-top: 3rem;
+}
+
+.panel {
+    background-color:rgba(2, 8, 51, 0.87);
+    color: white;
+}
+
+#user {
+    display: none;
+}
