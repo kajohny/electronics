@@ -1,0 +1,226 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "username": "kazhy",
+      "email": "kazh@mail.ru",
+      "password": "Qwerty12345!"
+    },
+    {
+      "id": 2,
+      "username": "johny",
+      "email": "johny2@gmail.com",
+      "password": "Zzz789456!"
+    },
+    {
+      "id": 3,
+      "username": "mark",
+      "email": "mark2k@yahoo.com",
+      "password": "Asdfg14785!"
+    },
+    {
+      "id": 4,
+      "username": "andres",
+      "email": "young@spacex.org",
+      "password": "Zxcvb25896!"
+    },
+    {
+      "id": 5,
+      "username": "travis",
+      "email": "tobeor2be@mail.ru",
+      "password": "Tobeor228!"
+    },
+    {
+      "email": "kazhymurat@gmail.com",
+      "username": "kazhymurat",
+      "password": "Qwerty12345!",
+      "id": 6
+    }
+  ],
+  "laptops": [
+    {
+      "id": 1,
+      "modelId": 101,
+      "modelName": "Lenovo",
+      "price": 250
+    },
+    {
+      "id": 2,
+      "modelId": 101,
+      "modelName": "Lenovo",
+      "price": 350
+    },
+    {
+      "id": 3,
+      "modelId": 102,
+      "modelName": "Asus",
+      "price": 350
+    },
+    {
+      "id": 4,
+      "modelId": 102,
+      "modelName": "Asus",
+      "price": 110
+    },
+    {
+      "id": 5,
+      "modelId": 103,
+      "modelName": "Acer",
+      "price": 375
+    },
+    {
+      "id": 6,
+      "modelId": 103,
+      "modelName": "Acer",
+      "price": 425
+    },
+    {
+      "id": 7,
+      "modelId": 104,
+      "modelName": "HP",
+      "price": 420
+    },
+    {
+      "id": 8,
+      "modelId": 104,
+      "modelName": "HP",
+      "price": 315
+    },
+    {
+      "id": 9,
+      "modelId": 105,
+      "modelName": "Mac",
+      "price": 560
+    },
+    {
+      "id": 10,
+      "modelId": 105,
+      "modelName": "Mac",
+      "price": 500
+    }
+  ],
+  "television_sets": [
+    {
+      "id": 1,
+      "modelId": 101,
+      "modelName": "Samsung",
+      "price": 330
+    },
+    {
+      "id": 2,
+      "modelId": 101,
+      "modelName": "Samsung",
+      "price": 420
+    },
+    {
+      "id": 3,
+      "modelId": 102,
+      "modelName": "LG",
+      "price": 290
+    },
+    {
+      "id": 4,
+      "modelId": 102,
+      "modelName": "LG",
+      "price": 170
+    },
+    {
+      "id": 5,
+      "modelId": 103,
+      "modelName": "Philips",
+      "price": 440
+    },
+    {
+      "id": 6,
+      "modelId": 103,
+      "modelName": "Philips",
+      "price": 490
+    },
+    {
+      "id": 7,
+      "modelId": 104,
+      "modelName": "Xiaomi",
+      "price": 450
+    },
+    {
+      "id": 8,
+      "modelId": 104,
+      "modelName": "Xiaomi",
+      "price": 420
+    },
+    {
+      "id": 9,
+      "modelId": 105,
+      "modelName": "Starwind",
+      "price": 390
+    },
+    {
+      "id": 10,
+      "modelId": 105,
+      "modelName": "Starwind",
+      "price": 425
+    }
+  ],
+  "smartphones": [
+    {
+      "id": 1,
+      "modelId": 101,
+      "modelName": "iPhone",
+      "price": 375
+    },
+    {
+      "id": 2,
+      "modelId": 101,
+      "modelName": "iPhone",
+      "price": 425
+    },
+    {
+      "id": 3,
+      "modelId": 102,
+      "modelName": "Samsung",
+      "price": 325
+    },
+    {
+      "id": 4,
+      "modelId": 102,
+      "modelName": "Samsung",
+      "price": 125
+    },
+    {
+      "id": 5,
+      "modelId": 103,
+      "modelName": "Xiaomi",
+      "price": 310
+    },
+    {
+      "id": 6,
+      "modelId": 103,
+      "modelName": "Xiaomi",
+      "price": 445
+    },
+    {
+      "id": 7,
+      "modelId": 104,
+      "modelName": "Huawei",
+      "price": 275
+    },
+    {
+      "id": 8,
+      "modelId": 104,
+      "modelName": "Huawei",
+      "price": 305
+    },
+    {
+      "id": 9,
+      "modelId": 105,
+      "modelName": "OnePlus",
+      "price": 295
+    },
+    {
+      "id": 10,
+      "modelId": 105,
+      "modelName": "OnePlus",
+      "price": 185
+    }
+  ]
+}
